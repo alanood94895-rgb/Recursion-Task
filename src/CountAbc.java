@@ -1,5 +1,4 @@
 public class CountAbc {
-    class CountAbc {
 
         // Method to count occurrences of "abc" and "aba"
         int countAbc(String str) {
