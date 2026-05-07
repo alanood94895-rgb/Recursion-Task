@@ -6,8 +6,7 @@ public class ParenBitDemo {
 
             System.out.println(extractor.parenBit("xyz(abc)123"));
 
-            System.out.println("parenBit(\"x(hello)\") → \""
-                    + extractor.parenBit("x(hello)") + "\"");
+            System.out.println(extractor.parenBit("x(hello)") );
 
             System.out.println("parenBit(\"(xy)1\") → \""
                     + extractor.parenBit("(xy)1") + "\"");
