@@ -1,6 +1,5 @@
 public class Triangle {
     // Class that contains the recursive triangle method
-    class Triangle {
 
         // Method to calculate total blocks in a triangle
         int triangle(int n) {
@@ -14,4 +13,5 @@ public class Triangle {
             return n + triangle(n - 1);
         }
     }
+
 
