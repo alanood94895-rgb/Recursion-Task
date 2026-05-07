@@ -25,7 +25,6 @@ public class StrCount {
     // Demo class with the main method
     public class StrCountDemo {
 
-        public static void main(String[] args) {
 
 
 
