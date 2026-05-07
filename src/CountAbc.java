@@ -1,7 +1,5 @@
 public class CountAbc {
-
-        // Method to count occurrences of "abc" and "aba"
-        int countAbc(String str) {
+    int countAbc(String str) {
 
             // Base case: if string length is less than 3
             if (str.length() < 3) {
