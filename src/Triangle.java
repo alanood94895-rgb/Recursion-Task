@@ -18,8 +18,3 @@ public class Triangle {
     // Demo class with the main method
     public class TriangleDemo {
 
-        public static void main(String[] args) {
-
-            // Create an object of the Triangle class
-            Triangle tri = new Triangle();
-
