@@ -15,15 +15,7 @@ public class CountHiDemo {
 
                 // Count this occurrence and skip 2 characters
                 return 1 + countHi(str.substring(2));
-            }
 
-            // Otherwise move forward by 1 character
-            return countHi(str.substring(1));
-        }
-    }
-
-    // Demo class with the main method
-    public class CountHiDemo {
 
         public static void main(String[] args) {
 
