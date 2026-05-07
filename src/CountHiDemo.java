@@ -1,6 +1,5 @@
 public class CountHiDemo {
-    // Class that contains the recursive countHi method
-    class CountHi {
+
 
 
 
