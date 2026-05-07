@@ -1,14 +1,5 @@
 public class TriangleDemo {
 
-    // Class that contains the recursive triangle method
-    class Triangle {
-
-        // Method to calculate total blocks in a triangle
-        int triangle(int n) {
-
-            // Base case: no rows means 0 blocks
-            if (n == 0) {
-                return 0;
 
 
     // Demo class with the main method
