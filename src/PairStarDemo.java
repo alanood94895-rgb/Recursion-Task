@@ -9,10 +9,7 @@ public class PairStarDemo {
             }
 
             // Get the first and second characters
-            char firstChar = str.charAt(0);
-            char secondChar = str.charAt(1);
 
-            // Check if both characters are the same
 
 
     // Demo class with the main method
