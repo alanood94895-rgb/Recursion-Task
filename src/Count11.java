@@ -2,7 +2,6 @@ public class Count11 {
 
         int count11(String str) {
 
-            // Base case: if string is shorter than 2 characters
             if (str.length() < 2) {
                 return 0;
             }
