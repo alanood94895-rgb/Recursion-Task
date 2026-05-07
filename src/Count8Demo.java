@@ -3,11 +3,6 @@ public class Count8Demo {
             // Get last digit
             int lastDigit = n % 10;
 
-            // Get previous digit
-            int prevDigit = (n / 10) % 10;
-
-            // Remove last digit for recursion
-            in
 
 
         public static void main(String[] args) {
