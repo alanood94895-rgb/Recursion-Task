@@ -10,12 +10,10 @@ public class NoX {
 
             String remaining = noX(str.substring(1));
 
-            // If first character is 'x', skip it
             if (firstChar == 'x') {
                 return remaining;
             }
 
-            // Otherwise include the character
             return firstChar + remaining;
         }
     }
