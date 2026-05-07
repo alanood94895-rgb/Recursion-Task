@@ -6,7 +6,6 @@ public class BunnyEarsDemo1 {
                 return 0;
             }
 
-            // Each bunny has 2 ears
             return 2 + bunnyEars(n - 1);
         }
     }
