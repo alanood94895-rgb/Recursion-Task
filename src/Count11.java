@@ -11,7 +11,6 @@ public class Count11 {
                 return 1 + count11(str.substring(2));
             }
 
-            // Otherwise move forward by 1 character
             return count11(str.substring(1));
         }
     }
