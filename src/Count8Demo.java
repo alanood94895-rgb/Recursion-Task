@@ -7,11 +7,7 @@ public class Count8Demo {
             int prevDigit = (n / 10) % 10;
 
             // Remove last digit for recursion
-            int remaining = n / 10;
-
-
-            // If last digit is 8 → count 1
-            if (lastDigit == 8) {
+            in
 
 
         public static void main(String[] args) {
