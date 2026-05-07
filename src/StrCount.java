@@ -1,5 +1,4 @@
 public class StrCount {
-    // Class that contains the recursive strCount method
 
         // Method to count non-overlapping occurrences of a substring
         int strCount(String str, String sub) {
