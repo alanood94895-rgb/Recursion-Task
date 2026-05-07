@@ -10,8 +10,6 @@ public class CountAbcDemo {
                 return 0;
             }
 
-            // Get the first 3 characters
-            String firstThree = str.substring(0, 3);
 
 
 
