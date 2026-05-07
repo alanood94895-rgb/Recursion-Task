@@ -1,12 +1,5 @@
 public class PairStarDemo {
 
-        String pairStar(String str) {
-
-
-
-
-
-
         public static void main(String[] args) {
 
             // Create an object of the PairStar class
