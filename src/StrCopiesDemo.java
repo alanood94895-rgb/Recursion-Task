@@ -1,9 +1,5 @@
 public class StrCopiesDemo {
 
-            // No match: move forward without reducing n
-            return strCopies(str.substring(1), sub, n);
-        }
-    }
 
     // Demo class with the main method
     public class StrCopiesDemo {
