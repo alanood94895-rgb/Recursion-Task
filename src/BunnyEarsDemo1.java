@@ -1,16 +1,6 @@
 public class BunnyEarsDemo1 {
 
-        int bunnyEars(int n) {
 
-            if (n == 0) {
-                return 0;
-            }
-
-            return 2 + bunnyEars(n - 1);
-        }
-    }
-
-    // Demo class with the main method
     public class BunnyEarsDemo {
 
         public static void main(String[] args) {
