@@ -15,7 +15,6 @@ public class PairStarDemo {
             // Check if both characters are the same
             if (firstChar == secondChar) {
 
-                // Insert "*" between identical characters
                 return firstChar + "*" + pairStar(str.substring(1));
             }
 
