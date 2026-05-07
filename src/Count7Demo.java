@@ -8,3 +8,4 @@ public class Count7Demo {
         System.out.println("count7(123) → " + counter.count7(123));
 
     }
+}
