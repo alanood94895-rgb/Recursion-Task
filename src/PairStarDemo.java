@@ -20,7 +20,6 @@ public class PairStarDemo {
             }
 
             // Otherwise, continue recursion normally
-            return firstChar + pairStar(str.substring(1));
         }
     }
 
