@@ -14,7 +14,6 @@ public class PairStarDemo {
 
             // Check if both characters are the same
 
-                return firstChar + "*" + pairStar(str.substring(1));
             }
 
         }
