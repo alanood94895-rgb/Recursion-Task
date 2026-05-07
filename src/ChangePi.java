@@ -3,6 +3,8 @@ public class ChangePi {
 
         if (str.length() == 0) {
             return "";
+        }
+        if (str.startsWith("pi")) {
 
 
 
