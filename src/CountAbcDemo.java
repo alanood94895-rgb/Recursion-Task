@@ -20,10 +20,6 @@ public class CountAbcDemo {
                 return 1 + countAbc(str.substring(1));
             }
 
-            // Continue recursion without counting
-            return countAbc(str.substring(1));
-        }
-    }
 
     // Demo class with the main method
     public class CountAbcDemo {
