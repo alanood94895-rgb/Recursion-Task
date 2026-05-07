@@ -8,8 +8,7 @@ public class ParenBitDemo {
 
             System.out.println(extractor.parenBit("x(hello)") );
 
-            System.out.println("parenBit(\"(xy)1\") → \""
-                    + extractor.parenBit("(xy)1") + "\"");
+            System.out.println(extractor.parenBit("(xy)1") );
         }
     }
 
