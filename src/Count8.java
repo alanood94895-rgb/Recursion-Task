@@ -16,7 +16,6 @@ public class Count8 {
                 return 2 + count8(remaining);
             }
 
-            // If last digit is 8 → count 1
             if (lastDigit == 8) {
                 return 1 + count8(remaining);
             }
