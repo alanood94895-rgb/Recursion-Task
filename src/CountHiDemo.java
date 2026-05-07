@@ -8,7 +8,7 @@ public class CountHiDemo {
 
             System.out.println(counter.countHi("xhixhix"));
 
-            System.out.println("countHi(\"hi\") → " + counter.countHi("hi"));
+            System.out.println( counter.countHi("hi"));
         }
     }
-}
+
