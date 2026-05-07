@@ -1,7 +1,6 @@
 public class CountHi {
 }
 // Class that contains the recursive countHi method
-class CountHi {
 
     int countHi(String str) {
 
