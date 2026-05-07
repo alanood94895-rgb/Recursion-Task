@@ -26,20 +26,3 @@ public class NoX {
         }
     }
 
-    // Demo class with the main method
-    public class NoXDemo {
-
-        public static void main(String[] args) {
-
-            // Create object of NoX class
-            NoX remover = new NoX();
-
-            // Test the noX method with different strings
-            System.out.println("noX(\"xaxb\") → \"" + remover.noX("xaxb") + "\"");
-
-            System.out.println("noX(\"abc\") → \"" + remover.noX("abc") + "\"");
-
-            System.out.println("noX(\"xx\") → \"" + remover.noX("xx") + "\"");
-        }
-    }
-}
