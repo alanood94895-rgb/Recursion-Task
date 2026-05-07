@@ -3,7 +3,6 @@ public class CountHi {
 // Class that contains the recursive countHi method
 class CountHi {
 
-    // Method to count occurrences of "hi" using recursion
     int countHi(String str) {
 
         if (str.length() < 2) {
