@@ -1,8 +1,5 @@
 public class Count11Demo {
 
-
-    public class Count11Demo {
-
         public static void main(String[] args) {
 
             // Create an object of Count11 class
