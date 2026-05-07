@@ -2,7 +2,6 @@ public class Fibonacci {
 
         int fibonacci(int n) {
 
-            // Base case: fibonacci(0) = 0
             if (n == 0) {
                 return 0;
             }
