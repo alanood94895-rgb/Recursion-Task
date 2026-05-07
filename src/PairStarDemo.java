@@ -6,9 +6,7 @@ public class PairStarDemo {
             // Base case: if string length is 0 or 1
             if (str.length() == 0 || str.length() == 1) {
                 return str;
-            }
 
-            // Get the first and second characters
 
 
 
