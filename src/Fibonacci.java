@@ -7,7 +7,6 @@ public class Fibonacci {
                 return 0;
             }
 
-            // Base case: fibonacci(1) = 1
             if (n == 1) {
                 return 1;
             }
