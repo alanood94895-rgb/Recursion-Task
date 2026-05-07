@@ -32,5 +32,4 @@ public class CountAbc {
             CountAbc counter = new CountAbc();
 
             // Test the countAbc method with different strings
-            System.out.println("countAbc(\"abc\") → " + counter.countAbc("abc"));
 
