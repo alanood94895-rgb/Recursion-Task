@@ -37,8 +37,3 @@ public class StrCount {
             System.out.println("strCount(\"catcowcat\", \"cow\") → "
                     + counter.strCount("catcowcat", "cow"));
 
-            System.out.println("strCount(\"catcowcat\", \"dog\") → "
-                    + counter.strCount("catcowcat", "dog"));
-        }
-    }
-}
