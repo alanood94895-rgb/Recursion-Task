@@ -11,11 +11,7 @@ public class Fibonacci {
                 return 1;
             }
 
-            // Recursive case
             return fibonacci(n - 1) + fibonacci(n - 2);
         }
     }
 
-
-
-}
