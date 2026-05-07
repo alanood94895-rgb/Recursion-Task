@@ -12,7 +12,6 @@ public class Count8 {
 
             int remaining = n / 10;
 
-            // If last digit is 8 and previous is also 8 → count double
             if (lastDigit == 8 && prevDigit == 8) {
                 return 2 + count8(remaining);
             }
