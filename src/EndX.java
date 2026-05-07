@@ -12,7 +12,6 @@ public class EndX {
             // Get the first character
             char firstChar = str.charAt(0);
 
-            // Process the remaining string recursively
             String resultFromRest = endX(str.substring(1));
 
             if (firstChar == 'x') {
