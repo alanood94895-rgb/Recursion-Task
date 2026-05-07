@@ -9,12 +9,7 @@ public class TriangleDemo {
             // Base case: no rows means 0 blocks
             if (n == 0) {
                 return 0;
-            }
 
-            // Add the current row number and continue recursion
-            return n + triangle(n - 1);
-        }
-    }
 
     // Demo class with the main method
     public class TriangleDemo {
