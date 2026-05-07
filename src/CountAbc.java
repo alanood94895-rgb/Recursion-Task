@@ -26,7 +26,6 @@ public class CountAbc {
     // Demo class with the main method
     public class CountAbcDemo {
 
-        public static void main(String[] args) {
 
 
 
