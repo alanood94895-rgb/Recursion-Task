@@ -15,7 +15,6 @@ public class EndX {
             // Process the remaining string recursively
             String resultFromRest = endX(str.substring(1));
 
-            // If the character is 'x', move it to the end
             if (firstChar == 'x') {
                 return resultFromRest + "x";
             }
