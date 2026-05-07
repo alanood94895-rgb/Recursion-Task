@@ -4,9 +4,9 @@ public class FibonacciDemo {
 
             Fibonacci fib = new Fibonacci();
 
-            System.out.println("fibonacci(0) → " + fib.fibonacci(0));
+            System.out.println( fib.fibonacci(0));
 
-            System.out.println("fibonacci(1) → " + fib.fibonacci(1));
+            System.out.println(fib.fibonacci(1));
 
             System.out.println("fibonacci(2) → " + fib.fibonacci(2));
 
