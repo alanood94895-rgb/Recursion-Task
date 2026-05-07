@@ -4,7 +4,6 @@ public class CountAbcDemo {
 
             CountAbc counter = new CountAbc();
 
-            // Test the countAbc method with different strings
             System.out.println("countAbc(\"abc\") → " + counter.countAbc("abc"));
 
             System.out.println("countAbc(\"abcxxabc\") → " + counter.countAbc("abcxxabc"));
@@ -13,4 +12,4 @@ public class CountAbcDemo {
         }
     }
 
-}
+
