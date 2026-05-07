@@ -11,7 +11,6 @@ public class PairStar {
         char firstChar = str.charAt(0);
         char secondChar = str.charAt(1);
 
-        // Check if both characters are the same
         if (firstChar == secondChar) {
 
             return firstChar + "*" + pairStar(str.substring(1));
