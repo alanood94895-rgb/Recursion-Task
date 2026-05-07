@@ -4,7 +4,7 @@ public class BunnyEarsDemo1 {
 
             BunnyEars bunny = new BunnyEars();
 
-            System.out.println("bunnyEars(0) → " + bunny.bunnyEars(0));
+            System.out.println(bunny.BunnyEars(0));
 
             System.out.println("bunnyEars(1) → " + bunny.bunnyEars(1));
 
