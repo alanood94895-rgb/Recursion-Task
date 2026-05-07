@@ -1,6 +1,5 @@
 public class ParenBitDemo {
-    // Class that contains the recursive parenBit method
-    class ParenBit {
+
 
 
     // Demo class with the main method
