@@ -8,7 +8,6 @@ public class Count8 {
 
             int lastDigit = n % 10;
 
-            // Get previous digit
             int prevDigit = (n / 10) % 10;
 
             // Remove last digit for recursion
