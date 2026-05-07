@@ -2,15 +2,6 @@ public class ParenBitDemo {
     // Class that contains the recursive parenBit method
     class ParenBit {
 
-        // Method to extract substring inside parentheses (including them)
-        String parenBit(String str) {
-
-            // Base case: if string starts with '(' and ends with ')'
-            if (str.charAt(0) == '(' && str.charAt(str.length() - 1) == ')') {
-                return str;
-            }
-
-            // If first character is not '(' remove it
 
     // Demo class with the main method
     public class ParenBitDemo {
