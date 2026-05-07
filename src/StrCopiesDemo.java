@@ -2,7 +2,6 @@ public class StrCopiesDemo {
 
         public static void main(String[] args) {
 
-            // Create object of StrCopies class
             StrCopies checker = new StrCopies();
 
             // Test the strCopies method with different inputs
