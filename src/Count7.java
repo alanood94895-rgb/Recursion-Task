@@ -8,6 +8,7 @@ public class Count7 {
 
         int lastDigit = n % 10;
 
+        // Check if the last digit is 7
         if (lastDigit == 7) {
 
             return 1 + count7(n / 10);
