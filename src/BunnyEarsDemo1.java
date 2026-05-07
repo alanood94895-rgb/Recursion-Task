@@ -1,8 +1,5 @@
 public class BunnyEarsDemo1 {
 
-
-    public class BunnyEarsDemo {
-
         public static void main(String[] args) {
 
             // Create an object of the BunnyEars class
