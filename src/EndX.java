@@ -9,7 +9,6 @@ public class EndX {
                 return "";
             }
 
-            // Get the first character
             char firstChar = str.charAt(0);
 
             String resultFromRest = endX(str.substring(1));
