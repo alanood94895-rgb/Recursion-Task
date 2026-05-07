@@ -6,7 +6,6 @@ public class Count8 {
                 return 0;
             }
 
-            // Get last digit
             int lastDigit = n % 10;
 
             // Get previous digit
