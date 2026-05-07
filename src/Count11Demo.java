@@ -6,7 +6,7 @@ public class Count11Demo {
             Count11 counter = new Count11();
 
             // Test the count11 method with different strings
-            System.out.println("count11(\"11abc11\") → " + counter.count11("11abc11"));
+            System.out.println(counter.count11("11abc11"));
 
             System.out.println( counter.count11("abc11x11x11"));
 
