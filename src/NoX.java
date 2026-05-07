@@ -1,6 +1,5 @@
 public class NoX {
 
-        // Method to remove all 'x' characters from a string
         String noX(String str) {
 
             // Base case: if string is empty
