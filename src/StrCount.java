@@ -13,13 +13,13 @@ public class StrCount {
             // Check if the beginning of str matches sub
             if (str.substring(0, sub.length()).equals(sub)) {
 
-                // Count the match and move forward by sub.length()
                 return 1 + strCount(str.substring(sub.length()), sub);
             }
 
             return strCount(str.substring(1), sub);
         }
     }
+}
 
 
 
