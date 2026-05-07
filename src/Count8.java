@@ -2,7 +2,6 @@ public class Count8 {
 
         int count8(int n) {
 
-            // Base case: if number becomes 0
             if (n == 0) {
                 return 0;
             }
