@@ -18,7 +18,6 @@ public class PairStar {
             return firstChar + "*" + pairStar(str.substring(1));
         }
 
-        // Otherwise, continue recursion normally
         return firstChar + pairStar(str.substring(1));
     }
 }
