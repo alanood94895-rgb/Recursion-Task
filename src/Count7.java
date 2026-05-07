@@ -6,6 +6,7 @@ public class Count7 {
 
         }
 
+        // Get the last digit
         int lastDigit = n % 10;
 
         // Check if the last digit is 7
