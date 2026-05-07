@@ -10,7 +10,6 @@ public class Count8 {
 
             int prevDigit = (n / 10) % 10;
 
-            // Remove last digit for recursion
             int remaining = n / 10;
 
             // If last digit is 8 and previous is also 8 → count double
