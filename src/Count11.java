@@ -1,8 +1,5 @@
 public class Count11 {
 
-    // Class that contains the recursive count11 method
-    class Count11 {
-
         // Method to count non-overlapping occurrences of "11"
         int count11(String str) {
 
