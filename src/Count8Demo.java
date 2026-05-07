@@ -1,7 +1,6 @@
 public class Count8Demo {
 
-            // Get last digit
-            int lastDigit = n % 10;
+
 
 
 
