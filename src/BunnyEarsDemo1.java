@@ -11,4 +11,4 @@ public class BunnyEarsDemo1 {
             System.out.println( bunny.bunnyEars2(2));
         }
     }
-}
+
