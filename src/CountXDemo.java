@@ -1,7 +1,6 @@
 public class CountXDemo {
     public static void main(String[] args) {
 
-        // Create an object of the CountX class
         CountX counter = new CountX();
 
         // Test the countX method with different strings
