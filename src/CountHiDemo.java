@@ -4,7 +4,7 @@ public class CountHiDemo {
 
             CountHi counter = new CountHi();
 
-            System.out.println("countHi(\"xxhixx\") → " + counter.countHi("xxhixx"));
+            System.out.println( counter.countHi("xxhixx"));
 
             System.out.println("countHi(\"xhixhix\") → " + counter.countHi("xhixhix"));
 
