@@ -31,5 +31,4 @@ public class CountAbc {
             // Create an object of the CountAbc class
             CountAbc counter = new CountAbc();
 
-            // Test the countAbc method with different strings
 
