@@ -2,7 +2,6 @@ public class BunnyEarsDemo1 {
 
         public static void main(String[] args) {
 
-            // Create an object of the BunnyEars class
             BunnyEars bunny = new BunnyEars();
 
             // Test the bunnyEars method with different values
