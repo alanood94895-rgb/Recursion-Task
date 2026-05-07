@@ -5,8 +5,7 @@ public class StrCopiesDemo {
             StrCopies checker = new StrCopies();
 
             // Test the strCopies method with different inputs
-            System.out.println("strCopies(\"catcowcat\", \"cat\", 2) → "
-                    + checker.strCopies("catcowcat", "cat", 2));
+            System.out.println(checker.strCopies("catcowcat", "cat", 2));
 
             System.out.println( checker.strCopies("catcowcat", "cow", 2));
 
