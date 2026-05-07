@@ -11,6 +11,9 @@ public class Count7 {
         if (lastDigit == 7) {
 
             return 1 + count7(n / 10);
+
+        } else {
+
         }
 
     }
