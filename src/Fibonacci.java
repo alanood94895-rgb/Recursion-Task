@@ -1,6 +1,4 @@
 public class Fibonacci {
-    // Class that contains the recursive fibonacci method
-    class Fibonacci {
 
         // Method to calculate Fibonacci numbers using recursion
         int fibonacci(int n) {
