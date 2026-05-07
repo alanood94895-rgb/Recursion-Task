@@ -1,5 +1,4 @@
 public class BunnyEarsDemo1 {
-    class BunnyEars {
 
         // Method to calculate total bunny ears
         int bunnyEars(int n) {
