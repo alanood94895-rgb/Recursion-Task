@@ -14,10 +14,6 @@ public class PairStarDemo {
 
             // Check if both characters are the same
 
-            }
-
-        }
-    }
 
     // Demo class with the main method
     public class PairStarDemo {
