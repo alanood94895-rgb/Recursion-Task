@@ -23,7 +23,6 @@ public class CountAbc {
         }
     }
 
-    // Demo class with the main method
 
 
 
