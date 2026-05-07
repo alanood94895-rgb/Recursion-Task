@@ -6,7 +6,6 @@ class CountHi {
     // Method to count occurrences of "hi" using recursion
     int countHi(String str) {
 
-        // Base case: if string has less than 2 characters
         if (str.length() < 2) {
             return 0;
         }
