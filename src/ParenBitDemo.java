@@ -2,12 +2,9 @@ public class ParenBitDemo {
 
         public static void main(String[] args) {
 
-            // Create object of ParenBit class
             ParenBit extractor = new ParenBit();
 
-            // Test the parenBit method with different strings
-            System.out.println("parenBit(\"xyz(abc)123\") → \""
-                    + extractor.parenBit("xyz(abc)123") + "\"");
+            System.out.println(extractor.parenBit("xyz(abc)123"));
 
             System.out.println("parenBit(\"x(hello)\") → \""
                     + extractor.parenBit("x(hello)") + "\"");
