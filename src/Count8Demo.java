@@ -1,14 +1,4 @@
 public class Count8Demo {
-    // Class that contains the recursive count8 method
-    class Count8 {
-
-        // Method to count 8s with special rule for consecutive 8s
-        int count8(int n) {
-
-            // Base case: if number becomes 0
-            if (n == 0) {
-                return 0;
-            }
 
             // Get last digit
             int lastDigit = n % 10;
