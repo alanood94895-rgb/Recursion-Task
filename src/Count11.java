@@ -8,7 +8,6 @@ public class Count11 {
 
             if (str.substring(0, 2).equals("11")) {
 
-                // Count this occurrence and skip 2 characters (no overlap)
                 return 1 + count11(str.substring(2));
             }
 
