@@ -4,7 +4,6 @@ public class TriangleDemo {
 
             Triangle tri = new Triangle();
 
-            // Test the triangle method with different values
             System.out.println("triangle(0) → " + tri.triangle(0));
 
             System.out.println("triangle(1) → " + tri.triangle(1));
@@ -12,4 +11,4 @@ public class TriangleDemo {
             System.out.println("triangle(2) → " + tri.triangle(2));
         }
     }
-}
+
