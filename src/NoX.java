@@ -1,6 +1,4 @@
 public class NoX {
-    // Class that contains the recursive noX method
-    class NoX {
 
         // Method to remove all 'x' characters from a string
         String noX(String str) {
