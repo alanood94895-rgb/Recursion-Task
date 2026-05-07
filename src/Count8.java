@@ -21,7 +21,6 @@ public class Count8 {
                 return 1 + count8(remaining);
             }
 
-            // Otherwise count 0
             return count8(remaining);
         }
     }
