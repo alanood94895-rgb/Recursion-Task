@@ -1,6 +1,5 @@
 public class StrCount {
 
-        // Method to count non-overlapping occurrences of a substring
         int strCount(String str, String sub) {
 
             if (str.length() < sub.length()) {
