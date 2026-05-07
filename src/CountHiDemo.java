@@ -1,9 +1,5 @@
+
 public class CountHiDemo {
-
-
-
-
-
         public static void main(String[] args) {
 
             // Create object of CountHi class
