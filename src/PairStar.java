@@ -1,5 +1,4 @@
 public class PairStar {
-    // Method to insert "*" between identical adjacent characters
     String pairStar(String str) {
 
         if (str.length() == 0 || str.length() == 1) {
