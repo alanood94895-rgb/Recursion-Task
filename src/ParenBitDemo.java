@@ -1,10 +1,5 @@
 public class ParenBitDemo {
 
-
-
-    // Demo class with the main method
-    public class ParenBitDemo {
-
         public static void main(String[] args) {
 
             // Create object of ParenBit class
@@ -21,4 +16,4 @@ public class ParenBitDemo {
                     + extractor.parenBit("(xy)1") + "\"");
         }
     }
-}
+
