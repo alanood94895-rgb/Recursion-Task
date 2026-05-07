@@ -5,7 +5,7 @@ public class FactorialDemo {
         Factorial factorial = new Factorial();
         System.out.println("factorial(1) → " + factorial.factorial(1));
         System.out.println("factorial(2) → " + factorial.factorial(2));
-        System.out.println();
+        System.out.println("factorial(3) → " + factorial.factorial(6));
 
 
     }
