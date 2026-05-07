@@ -8,11 +8,11 @@ public class FibonacciDemo {
 
             System.out.println(fib.fibonacci(1));
 
-            System.out.println("fibonacci(2) → " + fib.fibonacci(2));
+            System.out.println( fib.fibonacci(2));
 
-            System.out.println("fibonacci(5) → " + fib.fibonacci(5));
+            System.out.println( fib.fibonacci(5));
 
-            System.out.println("fibonacci(10) → " + fib.fibonacci(10));
+            System.out.println( fib.fibonacci(10));
         }
     }
 
