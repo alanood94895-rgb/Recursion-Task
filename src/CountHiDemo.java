@@ -2,7 +2,6 @@
 public class CountHiDemo {
         public static void main(String[] args) {
 
-            // Create object of CountHi class
             CountHi counter = new CountHi();
 
             System.out.println("countHi(\"xxhixx\") → " + counter.countHi("xxhixx"));
