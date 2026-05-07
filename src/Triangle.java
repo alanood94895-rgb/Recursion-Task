@@ -23,6 +23,3 @@ public class Triangle {
             // Create an object of the Triangle class
             Triangle tri = new Triangle();
 
-            // Test the triangle method with different values
-            System.out.println("triangle(0) → " + tri.triangle(0));
-
