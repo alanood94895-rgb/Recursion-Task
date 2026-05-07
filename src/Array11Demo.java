@@ -4,8 +4,8 @@ public class Array11Demo {
 
         Array11 array11 = new Array11();
 
-        System.out.println();
-        System.out.println();
-        System.out.println();
+        System.out.println(array11 ([1, 2, 11;;;], 0));
+        System.out.println(array11([11, 11], 0) );
+        System.out.println(array11([1, 2, 3, 4], 0));
     }
 }
