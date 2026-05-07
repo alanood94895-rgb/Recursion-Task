@@ -1,6 +1,5 @@
 public class StrCopies {
 
-        // Method to check if sub appears at least n times (overlapping allowed)
         boolean strCopies(String str, String sub, int n) {
 
             if (n == 0) {
