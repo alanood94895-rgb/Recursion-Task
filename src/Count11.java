@@ -1,6 +1,5 @@
 public class Count11 {
 
-        // Method to count non-overlapping occurrences of "11"
         int count11(String str) {
 
             // Base case: if string is shorter than 2 characters
