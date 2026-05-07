@@ -15,6 +15,3 @@ public class Triangle {
         }
     }
 
-    // Demo class with the main method
-    public class TriangleDemo {
-
