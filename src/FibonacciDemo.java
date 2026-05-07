@@ -1,13 +1,5 @@
 public class FibonacciDemo {
-    // Class that contains the recursive fibonacci method
-    class Fibonacci {
 
-        // Method to calculate Fibonacci numbers using recursion
-        int fibonacci(int n) {
-
-
-    // Demo class with the main method
-    public class FibonacciDemo {
 
         public static void main(String[] args) {
 
