@@ -31,7 +31,6 @@ public class PairStar {
         PairStar pair = new PairStar();
 
 
-        System.out.println("pairStar(\"xxyy\") → \"" + pair.pairStar("xxyy") + "\"");
 
         System.out.println("pairStar(\"aaaa\") → \"" + pair.pairStar("aaaa") + "\"");
     }
