@@ -1,5 +1,4 @@
 public class CountAbc {
-    // Class that contains the recursive countAbc method
     class CountAbc {
 
         // Method to count occurrences of "abc" and "aba"
