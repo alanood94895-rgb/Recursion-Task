@@ -1,6 +1,5 @@
 public class BunnyEarsDemo1 {
 
-        // Method to calculate total bunny ears
         int bunnyEars(int n) {
 
             // Base case: no bunnies means 0 ears
