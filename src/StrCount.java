@@ -17,7 +17,6 @@ public class StrCount {
                 return 1 + strCount(str.substring(sub.length()), sub);
             }
 
-            // Move forward by one character and continue recursion
             return strCount(str.substring(1), sub);
         }
     }
