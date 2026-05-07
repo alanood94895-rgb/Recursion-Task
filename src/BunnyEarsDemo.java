@@ -6,6 +6,7 @@ public class BunnyEarsDemo {
 
         System.out.println();
         System.out.println();
+        System.out.println();
 
     }
 
