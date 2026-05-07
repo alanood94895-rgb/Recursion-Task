@@ -20,7 +20,6 @@ public class EndX {
                 return resultFromRest + "x";
             }
 
-            // Otherwise keep it in its original order
             return firstChar + resultFromRest;
         }
     }
