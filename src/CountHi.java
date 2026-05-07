@@ -23,7 +23,3 @@ class CountHi {
     }
 }
 
-// Demo class with the main method
-public class CountHiDemo {
-
-    public static void main(String[] args) {
