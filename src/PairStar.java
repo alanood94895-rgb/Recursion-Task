@@ -30,7 +30,6 @@ public class PairStar {
         // Create an object of the PairStar class
         PairStar pair = new PairStar();
 
-        // Test the pairStar method with different strings
         System.out.println("pairStar(\"hello\") → \"" + pair.pairStar("hello") + "\"");
 
         System.out.println("pairStar(\"xxyy\") → \"" + pair.pairStar("xxyy") + "\"");
