@@ -2,7 +2,6 @@ public class BunnyEarsDemo1 {
 
         int bunnyEars(int n) {
 
-            // Base case: no bunnies means 0 ears
             if (n == 0) {
                 return 0;
             }
