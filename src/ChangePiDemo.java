@@ -5,8 +5,7 @@ public class ChangePiDemo {
         ChangePi changer = new ChangePi();
 
         // Test the changePi method with different strings
-        System.out.println("changePi(\"xpix\") → \"" + changer.changePi("xpix") + "\"");
-        System.out.println("changePi(\"pipi\") → \"" + changer.changePi("pipi") + "\"");
-        System.out.println("changePi(\"pip\") → \"" + changer.changePi("pip") + "\"");
+        System.out.println("changePi(xpix)" + changer.changePi("xpix"));
+        System.out.println("changePi(pipi)" + changer.changePi("pipi"));
     }
 }
