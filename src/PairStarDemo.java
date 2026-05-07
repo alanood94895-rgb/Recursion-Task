@@ -1,5 +1,4 @@
 public class PairStarDemo {
-    // Class that contains the recursive pairStar method
     class PairStar {
 
         // Method to insert "*" between identical adjacent characters
