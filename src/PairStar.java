@@ -28,7 +28,6 @@ public class PairStar {
     public static void main(String[] args) {
 
         // Create an object of the PairStar class
-        PairStar pair = new PairStar();
 
 
 
