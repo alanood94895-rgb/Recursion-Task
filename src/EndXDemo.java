@@ -1,10 +1,5 @@
 public class EndXDemo {
 
-            // Otherwise keep it in its original order
-            return firstChar + resultFromRest;
-        }
-    }
-
     // Demo class with the main method
     public class EndXDemo {
 
