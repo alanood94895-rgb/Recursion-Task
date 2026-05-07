@@ -22,8 +22,6 @@ public class StrCount {
         }
     }
 
-    // Demo class with the main method
-    public class StrCountDemo {
 
 
 
