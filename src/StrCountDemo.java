@@ -1,6 +1,5 @@
 public class StrCountDemo {
-    // Class that contains the recursive strCount method
-    class StrCount {
+
 
 
 
