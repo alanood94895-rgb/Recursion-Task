@@ -1,11 +1,11 @@
 public class EndXDemo {
         public static void main(String[] args) {
-            EndX mover = new EndX();
+            EndX endX = new EndX();
 
-            System.out.println( EndX.endX("xxre") );
+            System.out.println( endX.endX("xxre") );
 
-            System.out.println( mover.endX("xxhixx") );
+            System.out.println( endX.endX("xxhixx") );
 
-            System.out.println(mover.endX("xhixhix" ));
+            System.out.println(endX.endX("xhixhix" ));
         }
     }
