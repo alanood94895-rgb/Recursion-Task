@@ -24,7 +24,6 @@ public class PairStar {
 }
 
 // Demo class with the main method
-public class PairStarDemo {
 
     public static void main(String[] args) {
 
@@ -39,4 +38,4 @@ public class PairStarDemo {
         System.out.println("pairStar(\"aaaa\") → \"" + pair.pairStar("aaaa") + "\"");
     }
 }
-}
+
