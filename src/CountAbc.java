@@ -35,8 +35,3 @@ public class CountAbc {
             System.out.println("countAbc(\"abc\") → " + counter.countAbc("abc"));
 
             System.out.println("countAbc(\"abcxxabc\") → " + counter.countAbc("abcxxabc"));
-
-            System.out.println("countAbc(\"abaxxaba\") → " + counter.countAbc("abaxxaba"));
-        }
-    }
-}
