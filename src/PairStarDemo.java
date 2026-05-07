@@ -7,8 +7,6 @@ public class PairStarDemo {
 
 
 
-    // Demo class with the main method
-    public class PairStarDemo {
 
         public static void main(String[] args) {
 
