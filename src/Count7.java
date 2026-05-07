@@ -15,5 +15,7 @@ public class Count7 {
         } else {
 
         }
-
+        return lastDigit;
     }
+
+}
