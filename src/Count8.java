@@ -1,6 +1,5 @@
 public class Count8 {
 
-        // Method to count 8s with special rule for consecutive 8s
         int count8(int n) {
 
             // Base case: if number becomes 0
