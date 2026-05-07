@@ -15,8 +15,4 @@ public class BunnyEars1 {
         }
     }
 
-    // Demo class with the main method
-    public class BunnyEarsDemo {
-
-        public static void main(String[] args) {
 
