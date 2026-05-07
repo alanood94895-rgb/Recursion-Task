@@ -1,6 +1,5 @@
 public class ParenBit {
 
-        // Method to extract substring inside parentheses (including them)
         String parenBit(String str) {
 
             // Base case: if string starts with '(' and ends with ')'
