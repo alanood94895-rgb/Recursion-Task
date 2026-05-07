@@ -7,7 +7,6 @@ public class PairStar {
             return str;
         }
 
-        // Get the first and second characters
         char firstChar = str.charAt(0);
         char secondChar = str.charAt(1);
 
