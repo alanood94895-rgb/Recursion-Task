@@ -23,7 +23,6 @@ public class PairStar {
     }
 }
 
-// Demo class with the main method
 
 
 
