@@ -1,11 +1,4 @@
 public class CountAbcDemo {
-    // Class that contains the recursive countAbc method
-    class CountAbc {
-
-
-
-
-
 
 
     // Demo class with the main method
