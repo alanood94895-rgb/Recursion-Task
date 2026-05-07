@@ -6,8 +6,7 @@ public class StrCountDemo {
             System.out.println("strCount(\"catcowcat\", \"cat\") → "
                     + counter.strCount("catcowcat", "cat"));
 
-            System.out.println("strCount(\"catcowcat\", \"cow\") → "
-                    + counter.strCount("catcowcat", "cow"));
+            System.out.println(counter.strCount("catcowcat", "cow"));
 
             System.out.println("strCount(\"catcowcat\", \"dog\") → "
                     + counter.strCount("catcowcat", "dog"));
