@@ -18,7 +18,6 @@ public class CountAbc {
                 return 1 + countAbc(str.substring(1));
             }
 
-            // Continue recursion without counting
             return countAbc(str.substring(1));
         }
     }
