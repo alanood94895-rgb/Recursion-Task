@@ -25,7 +25,6 @@ public class PairStar {
 
 // Demo class with the main method
 
-    public static void main(String[] args) {
 
 
 
