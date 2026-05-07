@@ -32,7 +32,6 @@ public class PairStar {
 
 
 
-        System.out.println("pairStar(\"aaaa\") → \"" + pair.pairStar("aaaa") + "\"");
     }
 }
 
