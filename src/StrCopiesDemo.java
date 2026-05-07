@@ -8,8 +8,7 @@ public class StrCopiesDemo {
             System.out.println("strCopies(\"catcowcat\", \"cat\", 2) → "
                     + checker.strCopies("catcowcat", "cat", 2));
 
-            System.out.println("strCopies(\"catcowcat\", \"cow\", 2) → "
-                    + checker.strCopies("catcowcat", "cow", 2));
+            System.out.println( checker.strCopies("catcowcat", "cow", 2));
 
             System.out.println(checker.strCopies("catcowcat", "cow", 1));
         }
