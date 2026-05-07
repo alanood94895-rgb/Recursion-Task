@@ -1,9 +1,5 @@
 public class StrCopiesDemo {
 
-
-    // Demo class with the main method
-    public class StrCopiesDemo {
-
         public static void main(String[] args) {
 
             // Create object of StrCopies class
