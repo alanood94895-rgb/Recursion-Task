@@ -8,8 +8,6 @@ public class BunnyEars1 {
             if (n == 0) {
                 return 0;
             }
-
-            // Each bunny has 2 ears
             return 2 + bunnyEars(n - 1);
         }
     }
