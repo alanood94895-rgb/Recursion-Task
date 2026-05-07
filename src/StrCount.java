@@ -30,8 +30,5 @@ public class StrCount {
             // Create an object of the StrCount class
             StrCount counter = new StrCount();
 
-            // Test the strCount method with different substrings
-            System.out.println("strCount(\"catcowcat\", \"cat\") → "
-                    + counter.strCount("catcowcat", "cat"));
 
 
