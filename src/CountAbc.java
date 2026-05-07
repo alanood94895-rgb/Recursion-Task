@@ -1,8 +1,6 @@
 public class CountAbc {
     int countAbc(String str) {
-
-            // Base case: if string length is less than 3
-            if (str.length() < 3) {
+         if (str.length() < 3) {
                 return 0;
             }
 
