@@ -2,7 +2,6 @@ public class TriangleDemo {
 
         public static void main(String[] args) {
 
-            // Create an object of the Triangle class
             Triangle tri = new Triangle();
 
             // Test the triangle method with different values
