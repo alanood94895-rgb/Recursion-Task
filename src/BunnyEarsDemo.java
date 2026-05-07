@@ -5,6 +5,7 @@ public class BunnyEarsDemo {
         BunnyEars bunnyEars = new BunnyEars();
 
         System.out.println();
+        System.out.println();
 
     }
 
