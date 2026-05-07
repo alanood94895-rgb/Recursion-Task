@@ -1,6 +1,5 @@
 public class Count8 {
     // Class that contains the recursive count8 method
-    class Count8 {
 
         // Method to count 8s with special rule for consecutive 8s
         int count8(int n) {
