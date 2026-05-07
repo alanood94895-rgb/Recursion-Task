@@ -34,8 +34,5 @@ public class Count8 {
         }
     }
 
-    // Demo class with the main method
-    public class Count8Demo {
-
-        public static void main(String[] args) {
+    // Deming[] args) {
 
