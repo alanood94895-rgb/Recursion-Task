@@ -1,6 +1,5 @@
 public class Triangle {
 
-        // Method to calculate total blocks in a triangle
         int triangle(int n) {
 
             // Base case: no rows means 0 blocks
