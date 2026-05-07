@@ -6,4 +6,6 @@ public class Count7 {
 
         }
 
+        int lastDigit = n % 10;
+
     }
