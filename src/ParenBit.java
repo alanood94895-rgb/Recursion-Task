@@ -1,8 +1,6 @@
 public class ParenBit {
 
         String parenBit(String str) {
-
-            // Base case: if string starts with '(' and ends with ')'
             if (str.charAt(0) == '(' && str.charAt(str.length() - 1) == ')') {
                 return str;
             }
@@ -19,4 +17,4 @@ public class ParenBit {
         }
     }
 
-}
+
