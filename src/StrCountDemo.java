@@ -10,10 +10,6 @@ public class StrCountDemo {
                 return 0;
             }
 
-            // Check if the beginning of str matches sub
-            if (str.substring(0, sub.length()).equals(sub)) {
-
-
 
 
     // Demo class with the main method
