@@ -24,7 +24,6 @@ public class CountAbc {
     }
 
     // Demo class with the main method
-    public class CountAbcDemo {
 
 
 
