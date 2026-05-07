@@ -15,4 +15,4 @@ public class StrCopiesDemo {
                     + checker.strCopies("catcowcat", "cow", 1));
         }
     }
-}
+
