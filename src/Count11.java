@@ -6,7 +6,6 @@ public class Count11 {
                 return 0;
             }
 
-            // Check if the first two characters are "11"
             if (str.substring(0, 2).equals("11")) {
 
                 // Count this occurrence and skip 2 characters (no overlap)
