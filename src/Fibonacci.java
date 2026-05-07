@@ -1,6 +1,5 @@
 public class Fibonacci {
 
-        // Method to calculate Fibonacci numbers using recursion
         int fibonacci(int n) {
 
             // Base case: fibonacci(0) = 0
